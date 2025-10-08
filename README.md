@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @theingishwesin
 - 👀 I’m interested in Artifical Intelligence
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on interesting software apps
+- 🌱 I’m currently learning Data Analytics
+- 💞️ I’m looking to collaborate on more data analytics projects.
 - 📫 How to reach me theingishwesin98@gmail.com
 
 <!---
